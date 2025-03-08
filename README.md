@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Your Name - [Shreyash Ingle]([https://github.com/shreyash0019])
+[Shreyash Ingle](https://github.com/shreyash0019)
