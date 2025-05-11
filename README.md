@@ -60,9 +60,6 @@ The JavaScript file contains the logic for the memory game:
 - **resetBoard()**: Resets the board state after each turn.
 - **initGame()**: Initializes the game by shuffling the cards and creating the card elements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
