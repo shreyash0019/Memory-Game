@@ -61,6 +61,4 @@ The JavaScript file contains the logic for the memory game:
 - **initGame()**: Initializes the game by shuffling the cards and creating the card elements.
 
 
-## Author
 
-[Shreyash Ingle](https://github.com/shreyash0019)
